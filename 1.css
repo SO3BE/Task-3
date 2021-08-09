@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://wallpaper.dog/large/17089348.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    text-align:center;
+    
+}
+
+p {
+    color:white;
+    font-family: 'Trocchi', serif; 
+    font-size: 45px; 
+    font-weight: normal; 
+    
+   
+}
+
+
+button {
+    background-color: black;
+    color:white;
+    width:150px;
+    height: 60px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border: 2px solid green;
+    font-size: 15px;
+    
+}
+
+button:hover {
+    background-color: white;
+    color:black;
+}
